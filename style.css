@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main {
+    width: 90%;
+    margin: 0 auto;
+}
+.count {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+    margin: 100px auto;
+    border-radius: 40px;
+    position: relative;
+}
+p {
+    font-size: 150px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+button {
+    width: 90px;
+    height: 90px;
+    background-color: #fff;
+    box-shadow: 0 5px 6px 2px grey;
+    border-radius: 20px;
+    border: none;
+    font-size: 35px;
+}
+.btn-1 {
+    position: absolute;
+    top: 250px;
+    left: 720px;
+}
+.btn-2 {
+    position: absolute;
+    top: 250px;
+    left: 1110px;
+}
+.btn-3 {
+    position: absolute;
+    top: 470px;
+    left: 900px;
+    width: 110px;
+    height: 70px;
+}
